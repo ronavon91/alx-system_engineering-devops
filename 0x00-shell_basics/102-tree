@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir welcome/ welcome/to/ welcome/to/school 102-tree
+mkdir welcome/to/school 102-tree
